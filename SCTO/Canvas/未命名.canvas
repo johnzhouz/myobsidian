@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"f5c2349c5dba4e95","type":"file","file":"__Media/Pasted image 20221214122006.png","x":-440,"y":-220,"width":400,"height":55},
+		{"id":"34bb536d1cac4399","type":"text","text":"JRS","x":135,"y":-260,"width":250,"height":60,"color":"2"},
+		{"id":"4ca0afaf83596a2f","type":"file","file":"__Papers/Connell 1964.pdf","x":-440,"y":-40,"width":400,"height":400,"color":"5"},
+		{"id":"954d405f79ce9976","type":"file","file":"Pasted image 20240204124142.png","x":-220,"y":-540,"width":399,"height":225},
+		{"id":"d6fb29261f61770e","type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HijRVnwACBw?si=2lKJxi8rSNhkoGDP\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>","x":0,"y":-40,"width":480,"height":360}
+	],
+	"edges":[
+		{"id":"2f4b46038c5bfe3e","fromNode":"34bb536d1cac4399","fromSide":"left","toNode":"f5c2349c5dba4e95","toSide":"right"},
+		{"id":"0cac48163aab4070","fromNode":"f5c2349c5dba4e95","fromSide":"bottom","toNode":"4ca0afaf83596a2f","toSide":"top"},
+		{"id":"e070c761d7d16485","fromNode":"954d405f79ce9976","fromSide":"right","toNode":"34bb536d1cac4399","toSide":"top"}
+	]
+}

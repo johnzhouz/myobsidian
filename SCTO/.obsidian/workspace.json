@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "062bb2dd732d5070",
+    "type": "split",
+    "children": [
+      {
+        "id": "2da49ba4f4864e3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cc52a7ef02195fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/0 Start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44a5e54d28926b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/Dataview 1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "844e586e12c0479c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/List of Papers.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "93173841f9a75bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canvas/Readme canvas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1422acd6884f1f6a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SLR github.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705a183a696bd344",
+    "type": "split",
+    "children": [
+      {
+        "id": "893caea0b62ba53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e9c833c39092e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79030114292247cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "slr repository",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6122b32f9984510f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4ab73e5ca81d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "f1027b9aeedb0cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e93ef09024c4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7832789618f5a81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/SLR github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebfab15fcc5d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/SLR github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897d8f0c7eaed2e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6857a43a16461b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/SLR github.md"
+              }
+            }
+          },
+          {
+            "id": "ccc3dcce557eede7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dbfolder:创建一个新数据库表": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "1422acd6884f1f6a",
+  "lastOpenFiles": [
+    "Introduction SLR and AI.md",
+    "未命名 1.md",
+    "Canvas/未命名.canvas",
+    "kanb.md",
+    "Dataview/Dataview 1.md",
+    "zou zhou 2024.md",
+    "馃摎 Reading List.md",
+    "Canvas/Readme canvas.md",
+    "未命名.md",
+    "Canvas/Brainstorm.canvas",
+    "Canvas/Homepage.canvas",
+    "Canvas/Library Dashboard.canvas",
+    "Canvas/Book Dashboard.canvas",
+    "Mind Map/Readme Mind map.md",
+    "Mind Map/Mind mapping.md",
+    "Mind Map/IoT blockchain.md",
+    "Mind Map/Check box.md",
+    "Markdown/Markdown.md",
+    "__Papers/Connell 1964.pdf",
+    "__Papers/A Combined Representation Learning Approach for Better Job and Skill Recommendation.pdf",
+    "Dataview/List of Papers.md",
+    "Dataview/Dataview Templates.md",
+    "1 Primary Sources/Connell 1964.md",
+    "Excalidraw/0 Start.md",
+    "2024.md",
+    "Job Recommendation System Using Machine Learning And Natural Language Processing.pdf",
+    "__Media/访谈者身份.png",
+    "exercise 2/Chapter 2.md",
+    "exercise 2/Chapter 1.md",
+    "Exercise 1/1 combine.md",
+    "__Media/Zettelkasten steps.png",
+    "__Media/Pasted image 20221214131115.png",
+    "__Media/Pasted Image 20240202095039_003.jpg",
+    "__Media/Pasted Image 20240202102119_150.png",
+    "__Media/Pasted image 20221214094010.png",
+    "__Media/Pasted image 20221214125814.png",
+    "__Media/Pasted image 20221214124807.png",
+    "__Media/Pasted image 20221214123958.png",
+    "__Media/Pasted image 20221214122340.png",
+    "1 Primary Sources/Dhekre 2023.md",
+    "read this paper.md",
+    "Kanban/my kanban.md",
+    "Kanban/Kanban board.md",
+    "Kanban/Readme Kanban Plugin.md",
+    "exercise 2",
+    "Canvas/Reference Manager.canvas",
+    "Canvas/Media Dashboard.canvas",
+    "Canvas/Sample.canvas",
+    "Canvas/Research Mindmap.canvas",
+    "Canvas/Start here.canvas",
+    "Canvas",
+    "Kanban",
+    "Zotero",
+    "Markdown",
+    "Zettelkasten",
+    "Z"
+  ]
+}
